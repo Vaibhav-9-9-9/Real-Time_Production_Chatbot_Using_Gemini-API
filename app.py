@@ -33,6 +33,10 @@ display_messages()
 # User input
 user_input = st.chat_input("Ask your career question...")
 
+USER_AVATAR = "https://cdn-icons-png.flaticon.com/512/3135/3135715.png"
+BOT_AVATAR = "https://cdn-icons-png.flaticon.com/512/4712/4712109.png"
+
+
 if user_input:
 
     st.session_state.messages.append(("user", user_input))
