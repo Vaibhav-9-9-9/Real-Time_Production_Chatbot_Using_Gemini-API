@@ -162,5 +162,11 @@ Learn Python, statistics, and ML basics. Build projects and apply for entry-leve
 <h2>⭐ Support</h2>
 <p>If you like this project, give it a ⭐ on GitHub!</p>
 
+👨‍💻 Author
+
+Vaibhav M
+
+GitHub: https://github.com/Vaibhav-9-9-9
+
 </body>
 </html>
